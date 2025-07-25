@@ -18,6 +18,7 @@ Delete Salesforce Leads
     [Tags]                Leads
     Delete Lead
 
+
 *** Keywords ***
 
 Create Lead
